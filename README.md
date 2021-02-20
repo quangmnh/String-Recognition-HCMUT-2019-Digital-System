@@ -18,4 +18,4 @@ Quartus 16.5 and Verilog HDL.
 
 # Disclaimer
 
-This solution of the assignment is kind of retarded in which we use **16** state machines running in parallel in order to detect all 16 variaties of the 4-bit string that the user might provide.
+This solution of the assignment is kind of retarded in which we use **16 state machines running in parallel** in order to detect all 16 variaties of the 4-bit string that the user might provide.
