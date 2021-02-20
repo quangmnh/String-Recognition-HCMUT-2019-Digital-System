@@ -1,0 +1,128 @@
+
+State Machine - |mainProject|onefrom16:mu1|moore1111:m16|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore1110:m15|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore1101:m14|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore1100:m13|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore1011:m12|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore1010:m11|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore1001:m10|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore1000:m9|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore0111:m8|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore0110:m7|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore0101:m6|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore0100:m5|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore0011:m4|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore0010:m3|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore0001:m2|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 
+
+State Machine - |mainProject|onefrom16:mu1|moore0000:m1|current_state
+Name current_state.C current_state.B current_state.A current_state.R current_state.D 
+current_state.R 0 0 0 0 0 
+current_state.A 0 0 1 1 0 
+current_state.B 0 1 0 1 0 
+current_state.C 1 0 0 1 0 
+current_state.D 0 0 0 1 1 

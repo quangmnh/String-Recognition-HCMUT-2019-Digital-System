@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/ass1/simulation/qsim
+vhard_block
+Z1 !s110 1558059777
+!i10b 1
+!s100 K<Bl=Go]VKe2W4zSeE]c71
+I`ooU18iQile1V6PnoG3iW3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1558059775
+Z4 8ass1.vo
+Z5 Fass1.vo
+L0 9841
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1558059777.000000
+Z8 !s107 ass1.vo|
+Z9 !s90 -work|work|ass1.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vmainProject
+R1
+!i10b 1
+!s100 Q:AW20i:K1^PUlhT3?ODd3
+I3_]QF0WfGaEN@Mc43oLUk3
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nmain@project
+vmainProject_vlg_vec_tst
+R1
+!i10b 1
+!s100 ND^`LJjkAK6@m09@d^]^j1
+I3l9M09gn^Nk`>4c:z<Hib0
+R2
+R0
+w1558059774
+8Waveform11.vwf.vt
+FWaveform11.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform11.vwf.vt|
+!s90 -work|work|Waveform11.vwf.vt|
+!i113 1
+R10
+R11
+nmain@project_vlg_vec_tst
